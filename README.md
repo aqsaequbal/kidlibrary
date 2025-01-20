@@ -1,1 +1,1 @@
-# kidlib
+# kidz library
